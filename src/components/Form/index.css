@@ -1,0 +1,30 @@
+.label {
+  font-family: Roboto;
+  font-weight: bold;
+  color: #5a7184;
+  align-self: flex-start;
+  margin-top: 30px;
+}
+.input {
+  height: 30px;
+  width: 300px;
+  align-self: flex-start;
+  margin-bottom: 30px;
+  padding-left: 10px;
+}
+.cont2 {
+  height: 85vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.error {
+  color: red;
+}

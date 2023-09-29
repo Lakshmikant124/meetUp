@@ -1,0 +1,29 @@
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.image {
+  height: 400px;
+  width: 400px;
+}
+.h {
+  color: #334155;
+  font-weight: bold;
+  font-family: Roboto;
+}
+.p {
+  color: #475569;
+  font-weight: bold;
+  font-family: Roboto;
+}
+.btn {
+  background-color: #3b82f6;
+  height: 45px;
+  width: 100px;
+  border: 0px solid;
+  color: #ffffff;
+  border-radius: 4px;
+}
